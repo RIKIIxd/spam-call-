@@ -27,6 +27,3 @@ $ cd $HOME/spam-call-
 $ git pull
 
 $ python Run.py
-
-
-😈 HANYA UNTUK BERSENANG-SENANG 😈
