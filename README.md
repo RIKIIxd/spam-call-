@@ -1,4 +1,4 @@
-PERINTAH :
+# PERINTAH :
 
 $ pkg update && pkg upgrade
 
@@ -20,7 +20,7 @@ $ cd spam-call-
 
 $ python Run.py
 
-UPDATE TOOLS :
+# UPDATE TOOLS :
 
 $ cd $HOME/spam-call-
 
